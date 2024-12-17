@@ -118,8 +118,3 @@ plot_accuracy(history_cnn, "CNN")
 2.  Run the script in any Python environment with access to TensorFlow (e.g., Jupyter Notebook or a Python script).
 
 This code will visualize the accuracy of both models over 10 epochs and allow you to compare the performance of the Dense NN and CNN on the MNIST dataset.
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

@@ -118,8 +118,3 @@ pip install tensorflow matplotlib
 ```
 
 Let me know if you need further adjustments!
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)

@@ -119,8 +119,3 @@ tensorboard --logdir=logs/iris_classification
 Then, open a browser and go to `http://localhost:6006/` to view the training and validation metrics.
 
 This script provides an end-to-end solution for the Iris flower classification problem using TensorFlow and scikit-learn, along with TensorBoard for visualization.
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
